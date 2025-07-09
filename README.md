@@ -1,2 +1,2 @@
 # eesa
-Electron Executive Summary Assistant
+Efficacious Executive Summary Assistant
